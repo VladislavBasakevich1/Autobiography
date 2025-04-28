@@ -1,5 +1,9 @@
-# Hello world!
+## Autobiography
 
-I study in Netology
+**My name is Vladislav.**
 
-23/04/2025
+I graduated from university, live in Rostov-on-Don and like to read and study JAVA programming in my free time.
+I am trying to develop in this direction and I am sure that I will succeed.
+
+# Good day!
+
